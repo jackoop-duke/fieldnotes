@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- FIELDNOTES app icon: a raid route across three map stops on a field-notebook grid.
+       Content stays inside the central 80% so the same art works as a maskable (adaptive) icon. -->
+  <rect width="512" height="512" fill="#11161C"/>
+  <g stroke="#222C37" stroke-width="4">
+    <path d="M96 0V512M176 0V512M256 0V512M336 0V512M416 0V512M0 96H512M0 176H512M0 256H512M0 336H512M0 416H512"/>
+  </g>
+  <path d="M136 368 L216 200 L312 296 L380 148" fill="none" stroke="#E4EAEE" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 34"/>
+  <circle cx="136" cy="368" r="34" fill="#B4441F"/>
+  <circle cx="216" cy="200" r="30" fill="#C98A1B"/>
+  <circle cx="312" cy="296" r="30" fill="#3F8A3A"/>
+  <path d="M380 108 C352 108 332 130 332 156 C332 192 380 236 380 236 C380 236 428 192 428 156 C428 130 408 108 380 108 Z" fill="#E4EAEE"/>
+  <circle cx="380" cy="156" r="16" fill="#11161C"/>
+</svg>

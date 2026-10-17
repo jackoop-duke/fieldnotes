@@ -1,0 +1,43 @@
+{
+ "name": "FIELDNOTES 塔可夫出擊規劃",
+ "short_name": "FIELDNOTES",
+ "lang": "zh-Hant",
+ "dir": "ltr",
+ "description": "Unofficial raid and quest planner for Escape from Tarkov players.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#11161C",
+ "theme_color": "#11161C",
+ "categories": [
+  "games",
+  "utilities"
+ ],
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icons/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
